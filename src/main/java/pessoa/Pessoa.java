@@ -16,6 +16,8 @@ public class Pessoa {
 	
 	
 	// CONSTRUTORES
+	public Pessoa() {}
+	
 	public Pessoa(String email, String senha) {
 		this.email = email;
 		this.senha = senha;
