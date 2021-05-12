@@ -22,7 +22,7 @@ public class Pessoa {
 		this.email = email;
 		this.senha = senha;
 	}
-
+	
 	
 	// GETTERS E SETTERS
 	public Integer getId() {
